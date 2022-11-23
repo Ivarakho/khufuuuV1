@@ -54,33 +54,41 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['201121968769'] //ur owner number
-global.ownername = "𝐾𝐻𝐻𝐹𝑈" //ur owner name
-global.ytname = "YT: khufu" //ur yt chanel name
-global.socialm = "o" //ur github or insta name
-global.location = "Egypt" //ur location
+global.vcardowner = ['200623838762'] //ur owner number
+global.ownername = "𝘪𝘷𝘢𝘳#87.62𝘣𝘳𝘣" //ur owner name
+global.ytname = "YT: 𝘸𝘢𝘭𝘪𝘥 𝘮𝘰𝘶𝘩𝘵𝘢𝘮" //ur yt chanel name
+global.socialm = "4𝘺𝘳𝘩𝘢" //ur github or insta name
+global.location = "𝘤𝘢𝘴𝘢 𝘯𝘦𝘨𝘳𝘢" //ur location
 
 //bot bomdy 
-global.owner = ['201121968769']
-global.ownertag = '201121968769' //ur tag number
+global.owner = ['212623838762']
+global.ownertag = '212623838762' //ur tag number
 
-global.botname = 'ᴹᴿ᭄ Bot Whatsapp ×፝֟͜×' //ur bot name
-global.linkz = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCaWoQPfLiIY4dDp3WeWm7oA" //ur website to be displayed
-global.botscript = 'https://youtube.com/channel/UCB3Z3phhszGj8FBdaJmIdJQ' //script link
+global.botname = 'ᴹᴿ᭄ 𝘪𝘷𝘢𝘳 𝘣𝘰𝘵 ×፝֟͜×' //ur bot name
+global.linkz = "https://www.instagram.com/invites/contact/?i=3n5vtdkqs9o1&utm_content=y01dzh‎‏" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.instagram.com/invites/contact/?i=3n5vtdkqs9o1&utm_content=y01dzh‎‏" //ur website to be displayed
+global.botscript = 'https://chat.whatsapp.com/GcWWnkwch2IIVzm2fmguLa' //script link
 global.reactmoji = "💗" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
-global.packname = "01121968769" //ur sticker watermark packname
-global.author = "خوفو ص المزعجين ☺️ " //ur sticker watermark author
+global.packname = "" //ur sticker watermark packname
+global.author = "@-𝑖𝑣𝑎𝑟 𝑎𝑘ℎ𝑜🤍
+
+_http://wa.me/+212623838762
+
+_# 87.62𝑏𝑟𝑏🤍_
+
+
+
+🤍" //ur sticker watermark author
 
 //Bot theme media
-global.thum = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur thumb pic
+global.thum = fs.readFileSync("") //ur thumb pic
 global.log0 = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur error pic
-global.thumb = fs.readFileSync("./KhufuMedia/theme/cheemspic.jpg") //ur thumb pic
+global.err4r = fs.readFil") //ur error pic
+global.thumb = fs.readFileSync("./") //ur thumb pic
 
 //damtabase
-global.premium = ['201121968769'] //ur premium numbers
+global.premium = ['0623838762'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -113,12 +121,12 @@ global.mess = {
     group: 'فقط في رومات ',
     private: 'برايفت بس!',
     bot: 'ميزه دي ل بوت فقط',
-    wait: 'استني ....',
-    linkm: 'فين لينك؟',
+    wait: 'اطط ....',
+    linkm: 'فينهوا لينك؟',
     error: 'ايرور!!!!',
-    endLimit: 'تعالا بكره !',
+    endLimit: 'غيرها !',
     ban: 'لا استطيع ارسال اي شئ لان مالك قام بحظر هاذا روم !',
-    nsfw: 'ميزه مقفوله خلي الادمن يشغلها!',
+    nsfw: 'اك تترشقلي !',
     banChat: ''
 }
     global.limitawal = {
